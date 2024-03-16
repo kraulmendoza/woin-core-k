@@ -1,0 +1,15 @@
+{
+	"date": {
+		"error": {
+			"invalidZone": "Zona horaria invalida",
+			"timestamp": "El timestamp no puede ser menor de 1",
+			"date": "Fecha invalida",
+			"dateIso": "La fecha no cumple con un valor correcto",
+			"operationMath": "Operación matemática sobre las fechas no es permitida o no existe",
+			"operationDate": "Operador de calendario no permitido o no existe",
+			"operationResponse": "Tipo de respuesta de salida invalida",
+			"units": "Debe especificar las unidades de salida si desea usar la salida en objeto",
+			"unitsArray": "Las unidades deben ser especificadas como un arreglo"
+		}
+	}
+}

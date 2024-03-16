@@ -1,0 +1,14 @@
+{
+  "name": "@woin/core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kenneth mendoza",
+  "license": "MIT",
+  "dependencies": {
+    "i18n": "^0.15.1",
+    "luxon": "^3.4.2"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.3.2"
+  }
+}
